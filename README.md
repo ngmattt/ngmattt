@@ -74,5 +74,5 @@ I'm continuing to develop projects that combine biological questions with reprod
 ## Connect
 
 - GitHub: [github.com/ngmattt](https://github.com/ngmattt)
-- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/)
-- Email: Add your email here
+- LinkedIn: [linkedin.com/in/ngmattt](https://www.linkedin.com/in/ngmattt)
+- Email: nmatthew2000@gmail.com
